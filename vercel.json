@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "public": false,
+  "github": { "silent": true },
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://http.cat/204",
+      "permanent": false
+    }
+  ]
+}
