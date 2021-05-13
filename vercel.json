@@ -8,5 +8,16 @@
       "destination": "https://http.cat/204",
       "permanent": false
     }
+  ],
+  "headers": [
+    {
+      "source": "/.well-known/mta-sts.txt",
+      "headers" : [
+        {
+          "key" : "Content-Type",
+          "value" : "text/plain; charset=utf-8"
+        }
+      ]
+    }
   ]
 }
