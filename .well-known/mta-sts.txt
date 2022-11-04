@@ -1,8 +1,5 @@
 version: STSv1
-mode: enforce
-mx: aspmx.l.google.com
-mx: alt1.aspmx.l.google.com
-mx: alt2.aspmx.l.google.com
-mx: alt3.aspmx.l.google.com
-mx: alt4.aspmx.l.google.com
+mode: testing
+mx: mx01.mail.icloud.com
+mx: mx02.mail.icloud.com
 max_age: 604800
